@@ -4,14 +4,7 @@ cv:
   email: grace.scott@example.com
   location: San Francisco, CA
   image: ""
-  summary: >
-    Cross-disciplinary research scientist with a machine learning + computational
-    physics spine and working fluency in neurotechnology, bioengineering, and
-    advanced materials. Track record of taking high-risk systems from theory to
-    deployment: frontier AI for autonomous control, human-performance / neural-interface
-    programs, and ruggedized hardware platforms. Comfortable owning a program
-    end-to-end — research, funding, team, integration, field validation — including
-    in classified and dual-use settings.
+  summary: ""
 
   social_networks:
     - network: GitHub

@@ -2,7 +2,7 @@
 layout: book-review
 title: Co-Intelligence
 author: Ethan Mollik
-cover: assets/img/book_covers/Co_Intelligence.jpg
+cover: assets/img/book_covers/Co-Intelligence.jpeg
 olid: OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
 isbn: 7539967447 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: classics crime historical-fiction mystery novels thriller
